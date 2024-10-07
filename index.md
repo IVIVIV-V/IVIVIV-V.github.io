@@ -1,8 +1,14 @@
-# 欢迎来到万华镜之劫(Kaleidoscope Catastrophe)Wiki！
+# [**万华镜之劫Wiki**](https://iviviv-v.github.io/) 
+
+[首页](https://iviviv-v.github.io/) <div class="container"><div class="search-container"><input type="text" placeholder="搜索功能正在制作..."></div></div>
+
+---
+
+## 欢迎来到万华镜之劫(Kaleidoscope Catastrophe)Wiki！
 
 这里是<strong>\*IVIVIV.V\*</strong>的个人OC与世界观网站。
 
-## 一些问题
+### 一些问题
 
 1.IVIVIV.V为什么要整这么一个网站？
 
@@ -24,10 +30,10 @@
 
 ---
 
-如果想查询内容的话，可以用上面的工具搜索。
+如果想查询内容的话，可以在下面找。
 
 没什么事我就走了，回见。
 
-(哈哈哈哈哈$L_AT^EX$真好使)
+(哈哈哈哈哈$L^AT_EX$真好使)
 
 (非常良好的精神状态)
